@@ -2,7 +2,7 @@
 - 👀 I’m interested in Improving workflows and project management processes, providing tools that facilitate better communication and teamwork as well as seamlessly connecting with other popular tools and platforms.
 - 🌱 I’m Implementing more sophisticated reporting and data analysis features,and exploring ways to integrate artificial intelligence for smarter project management.
 - 💞️ I’m Expanding functionalities and adding new features, identifying and resolving issues to ensure smooth operation, working on integrating with other tools and services that our users rely on.
-- 📫 Reach me via Email: support@robustsoftech.com and Website: www.robustsoftech.com
+- 📫 Reach us via Email: support@robustsoftech.com and Website: www.robustsoftech.com
 - 😄 Pronouns: Robust Softech Pvt Ltd
 - ⚡ Our project management tool is built to accommodate diverse project methodologies, ensuring that teams of all sizes and styles can work together seamlessly!
 
